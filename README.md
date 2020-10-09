@@ -6,4 +6,4 @@
 ## 주간 목표
 - React-TodoList 완성
 #### 회사 디자인 
-- [ ] Home 
+Home | Solution | Business | About | Recruit
