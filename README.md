@@ -4,7 +4,8 @@
 - 책1권 읽기 
 - 회사페이지 완성
 ## 주간 목표
-- React-TodoList 완성
+#### React-TodoList
+- Function : `create` `toggle` `delete`
 #### 회사 디자인 
 Home  |  Solution  |  Business  |  About  |  Recruit
 :------ | :------ | :------ | :------ | :------ |
