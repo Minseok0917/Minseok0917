@@ -5,7 +5,7 @@
 - 회사페이지 완성
 ## 주간 목표
 #### React-TodoList
-- [x] 기능 [`create`,`toggle`,`delete`]
+- [x] 기능 : `create`, `toggle`, `delete` 
 - [ ] 디자인
 - [ ] 최적화
 
