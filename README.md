@@ -5,7 +5,10 @@
 - 회사페이지 완성
 ## 주간 목표
 #### React-TodoList
-- [y] `create`
+- [x] `create`
+- [x] `toggle`
+- [x] `delete`
+- [ ] `design`
 #### 회사 디자인 
 Home  |  Solution  |  Business  |  About  |  Recruit
 :------ | :------ | :------ | :------ | :------ |
