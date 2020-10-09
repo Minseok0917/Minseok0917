@@ -8,8 +8,3 @@
 - [x] 기능 : `create` `toggle` `delete` 
 - [ ] 디자인
 - [ ] 최적화
-
-#### 회사 디자인 
-Home  |  Solution  |  Business  |  About  |  Recruit
-:------ | :------ | :------ | :------ | :------ |
- x | x | x | x | x
