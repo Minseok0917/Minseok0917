@@ -7,10 +7,4 @@
 #### React-TodoList
 
 ## Todo subPage
-- [ ] list 
-- [ ] map 
-- [ ] history
-- [ ] header
-- [ ] header
-- [ ] visual 
-- [ ] footer
+- SubPage 
