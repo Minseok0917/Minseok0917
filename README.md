@@ -7,6 +7,8 @@
 
 
 
+<h3 align="center">Skills</h3>
+
 <p align="center">  
   <a href="https://solved.ac/minseok0917">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minseok0917" />
