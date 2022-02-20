@@ -1,9 +1,11 @@
-<h1 align="left"> My Routine</h1>
+<h1 align="center"> My Routine</h1>
+
+왜 PUSH 가 안되지?
 
 
-1. 아침 출근 시간 지하철 : 회사에서 할 일 정리
-2. 퇴근 출근 시간 지하철 : 집에서 할 일 정리
-3. 토요일 : 1주일 단위 목표 작성 & 일주일 회고
+<h6 align="center">아침 출근 시간 지하철 : 회사에서 할 일 정리</h6>
+<h6 align="center">퇴근 출근 시간 지하철 : 집에서 할 일 정리</h6>
+<h6 align="center">토요일 : 1주일 단위 목표 작성 & 일주일 회고</h6>  
 
 
 <p align="left">
