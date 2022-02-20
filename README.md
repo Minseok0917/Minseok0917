@@ -1,11 +1,6 @@
 # 수련중
 
 
-<p align="center">
-  <a href="https://github.com/Minseok0917">
-    <img src="https://github-readme-stats.vercel.app/api?username=Minseok0917&theme=prussian" />
-  </a> 
-</p>
 
 </p>
 <p align="center">
