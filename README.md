@@ -1,4 +1,4 @@
-<h1 align="center"> My Routine</h1>
+<h2 align="center"> My Routine</h2>
 
 <h4 align="center">출근시간 지하철에서 회사에서 할 일 정리</h4>
 <h4 align="center">퇴근시간 지하철에서 집에서 할 일 정리</h4>
@@ -7,7 +7,7 @@
 
 
 
-<h3 align="center">Skills</h3>
+<h2 align="center">Skills</h2>
 
 <p align="center">  
   <a href="https://solved.ac/minseok0917">
