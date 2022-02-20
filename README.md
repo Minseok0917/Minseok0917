@@ -7,7 +7,7 @@
 
 <h2 align="center">Week Todo</h2>
 
-<h4 align="center">TIL 페이지 2차 개발</h4>
+<h4 align="center">TIL 2차 개발</h4>
 <h4 align="center">Webpack 공부</h4>
 
 
