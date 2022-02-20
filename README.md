@@ -1,7 +1,7 @@
 # 수련중
 
 
-<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minseok0917)" />
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minseok0917" />
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minseok0917)](https://solved.ac/minseok0917)
 <a align="left" href="https://github.com/Minseok0917">
