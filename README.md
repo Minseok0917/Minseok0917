@@ -5,6 +5,10 @@
 <h4 align="center">토요일에 1주일 단위 목표 작성 & 일주일 회고</h4>  
 
 
+<h2 align="center">Week Todo</h2>
+
+<h4 align="center">TIL 페이지 2차 개발</h4>
+<h4 align="center">Webpack 공부</h4>
 
 
 <h2 align="center">Skills</h2>
