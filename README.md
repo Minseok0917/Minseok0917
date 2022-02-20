@@ -5,8 +5,9 @@
 <h4 align="center">토요일에 1주일 단위 목표 작성 & 일주일 회고</h4>  
 
 
-<p align="center">
-  <h3>Skills</h3>
+
+
+<p align="center">  
   <a href="https://solved.ac/minseok0917">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=minseok0917" />
   </a>
