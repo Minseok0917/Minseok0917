@@ -1,4 +1,14 @@
-# 수련중
+<h1 align="center"> My Routine</h1>
+
+<div margin="auto">
+  dad
+</div>
+
+1. 아침 출근 시간 지하철 : 회사에서 할 일 정리
+2. 퇴근 출근 시간 지하철 : 집에서 할 일 정리
+3. 토요일 : 단 기간 목표 작성 & 일주일 회고
+
+
 
 
 <p align="center">
