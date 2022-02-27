@@ -2,7 +2,7 @@
 
 <h4 align="center">출근시간 지하철에서 회사에서 할 일 정리</h4>
 <h4 align="center">퇴근시간 지하철에서 집에서 할 일 정리</h4>
-<h4 align="center">토요일에 1주일 단위 목표 작성 & 일주일 회고</h4>  
+<h4 align="center">일요일에 1주일 단위 목표 작성 & 일주일 회고</h4>  
 
 
 <h2 align="center">Week Todo</h2>
