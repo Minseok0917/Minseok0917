@@ -7,8 +7,7 @@
 
 <h2 align="center">Week Todo</h2>
 
-<h4 align="center">TIL 2차 개발</h4>
-<h4 align="center">You Don't Know JS 타입과 문법 독서</h4>
+<h4 align="center">정비 갖추기</h4>
 
 
 <h2 align="center">Skills</h2>
