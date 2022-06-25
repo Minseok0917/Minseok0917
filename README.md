@@ -1,3 +1,3 @@
-### 👀 articles
+### npm
 
--   **[vitepress theme](https://github.com/Minseok0917/vitepress-simple-theme)**
+-   **[vitepress simple theme](https://github.com/Minseok0917/vitepress-simple-theme)**
