@@ -13,3 +13,11 @@
 </div>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
+
+<div style="display:flex">
+
+![email](https://img.shields.io/badge/-nminseok0917@naver.com-03C75A?style=round-square&logo=naver&logoColor=white)
+
+[![email](https://img.shields.io/badge/-https://minseok0917.github.io/TIL/-181717?style=round-square&logo=github&logoColor=white)](https://minseok0917.github.io/TIL/)
+
+</div>
