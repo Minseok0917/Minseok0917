@@ -1,3 +1,9 @@
+**Front-end 개발자 정민석입니다**
+
+-   ![email](https://img.shields.io/badge/-nminseok0917@naver.com-03C75A?style=round-square&logo=naver&logoColor=white)
+
+-   [![blog](https://img.shields.io/badge/-https://minseok0917.github.io/TIL/-181717?style=round-square&logo=github&logoColor=white)](https://minseok0917.github.io/TIL/)
+
 ### NPM
 
 -   **[vitepress simple theme](https://github.com/Minseok0917/vitepress-simple-theme)**
@@ -13,11 +19,3 @@
 </div>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
-
-<div style="display:flex">
-
-![email](https://img.shields.io/badge/-nminseok0917@naver.com-03C75A?style=round-square&logo=naver&logoColor=white)
-
-[![email](https://img.shields.io/badge/-https://minseok0917.github.io/TIL/-181717?style=round-square&logo=github&logoColor=white)](https://minseok0917.github.io/TIL/)
-
-</div>
