@@ -8,7 +8,7 @@
 
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=minseok0917)](https://solved.ac/minseok0917)
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=minseok0917&=c)](https://solved.ac/minseok0917)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=minseok0917)](https://solved.ac/minseok0917)
 [![Solved.ac
